@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin Compose</string>
+    <string name="users_title">用户列表</string>
+    <string name="search_users">搜索用户</string>
+    <string name="add_user">添加用户</string>
+    <string name="edit_user">编辑用户</string>
+    <string name="delete_user">删除用户</string>
+    <string name="name">姓名</string>
+    <string name="email">邮箱</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="no_users">暂无用户</string>
+    <string name="no_search_results">未找到相关用户</string>
+</resources> 

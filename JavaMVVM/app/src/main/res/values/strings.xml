@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Java MVVM</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="loading">正在加载...</string>
+    <string name="error_occurred">发生错误</string>
+    <string name="no_data">暂无数据</string>
+    <string name="add_user">添加用户</string>
+    <string name="edit_user">编辑用户</string>
+    <string name="delete_user">删除用户</string>
+    <string name="refresh">刷新</string>
+</resources> 
